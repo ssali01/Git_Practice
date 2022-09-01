@@ -8,4 +8,6 @@ public class eBayPage {
 
     //  html for deals page
 
+    // html for search page
+
 }
