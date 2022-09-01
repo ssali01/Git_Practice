@@ -6,4 +6,6 @@ public class eBayPage {
 
     // html for cart
 
+    //  html for deals page
+
 }
